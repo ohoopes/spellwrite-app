@@ -103,10 +103,7 @@ Use Restore Purchases and confirm your Apple ID.
 
 ## Contact Support
 
-**Email:** support@YOURDOMAIN.com  
-**Website:** https://YOURDOMAIN.com  
-
-Response time: [your response time]
+**Email:** ohoopes.python@gmail.com  
 
 ---
 
